@@ -1,0 +1,15 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Resources/Atlas/CreatRoom.tpsheet
+- Assets/Resources/Atlas/CreatRoom_1.tpsheet
+- Assets/Resources/Atlas/GameHall.tpsheet
+textureFileNames:
+- Assets/Resources/Atlas/CreatRoom.png
+- Assets/Resources/Atlas/CreatRoom_1.png
+- Assets/Resources/Atlas/GameHall.png
+normalmapFileNames:
+- 
+- 
+- 
+enableDebugOutput: 0

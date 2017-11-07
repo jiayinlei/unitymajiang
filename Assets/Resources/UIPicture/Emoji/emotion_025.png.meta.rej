@@ -1,0 +1,10 @@
+diff a/Assets/Resources/UIPicture/Emoji/emotion_025.png.meta b/Assets/Resources/UIPicture/Emoji/emotion_025.png.meta	(rejected hunks)
+@@ -27,7 +27,7 @@
+   textureFormat: -1
+   maxTextureSize: 2048
+   textureSettings:
+-    filterMode: -1
++    filterMode: 2
+     aniso: 16
+     mipBias: -1
+     wrapMode: 1
